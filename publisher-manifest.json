@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c6a687a4c8215637726caa7e",
+  "owner": "ybepvqmnk",
+  "repo": "page-542b0e9313aeb70a93fb187d",
+  "title": "KUGO",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "542b0e9313aeb70a93fb187d",
+      "a": "KUGO",
+      "b": "2027官方最新地址导航",
+      "entity": "KUGO",
+      "brand": "KUGO",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4d6abfdd431533c82b69a5aee0c3ef3c9f307c2dd174fea9a52fea813423676f",
+      "content": {
+        "primary_entity": "KUGO",
+        "keyword1": "KUGO",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端：Windows、macOS、Android、iOS 与路由器端均有适配方案，订阅配置方法可查阅各客户端文档。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好适合的套餐与设备客户端，按文档完成订阅配置，即可开始使用 KUGO 的加速线路。",
+          "AI_CLOSING_TITLE": "选套餐，配订阅",
+          "AI_DESCRIPTION": "，KUGO 提供按月与按年两种付费方式，基础版每月 100GB 流量适合轻量使用，旗舰版每月 300GB 并带 IPLC 专线游戏加速优化，团队版每月 1000GB 支持企业定制路由。用户可按设备数量与流量需求选择对应套餐，并根据系统下载客户端导入订阅。年付方案为长期使用提供更实惠的价格。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求到订阅周期，三个角度快速了解 KUGO 的使用方式。",
+          "AI_FEATURES_TITLE": "使用要点",
+          "AI_FEATURE_TEXT_1": "基础版适合 1 至 3 台设备轻度使用，旗舰版覆盖 5 台设备并优化游戏专线，团队版支持 20 台设备与企业路由定制。",
+          "AI_FEATURE_TEXT_2": "Windows、macOS、Android、iOS 与路由器端均有对应客户端，安装后导入订阅即可同步节点配置。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省：基础版年付 150 元，旗舰版年付 350 元，团队版年付 850 元，长期使用建议按年订阅。",
+          "AI_FEATURE_TITLE_1": "按需选套餐",
+          "AI_FEATURE_TITLE_2": "多端客户端适配",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "按三个步骤完成从选服务到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "配置三步",
+          "AI_HERO_INTRO": "KUGO 提供多档海外网络加速套餐，基础版每月 100GB 流量，旗舰版每月 300GB 并带 IPLC 专线游戏加速，团队版每月 1000GB 支持企业定制路由。结合设备数量与使用场景选择套餐，按月或按年订阅，再依客户端文档完成配置即可使用。",
+          "AI_HERO_SUBTITLE": "多端设备加速，按需订阅",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案价格更实惠",
+          "AI_PLANS_INTRO": "基础版每月 15 元含 100GB 流量、3 台设备；旗舰版每月 35 元含 300GB 流量、5 台设备，配备全节点流媒体解锁与 IPLC 专线游戏优化；团队版每月 85 元含 1000GB 流量、20 台设备，含 VIP 专属高带宽节点与企业定制路由。年付分别为 150 元、350 元、850 元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量需求、同时在线设备数量与是否需要游戏或企业级线路，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备系统与客户端版本符合对应说明。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅地址，完成节点配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端文档配置",
+          "AI_VISUAL_TITLE": "KUGO 多端加速",
+          "AI_FAQ_ANSWER_1": "同时在线设备数按套餐区分：基础版 3 台、旗舰版 5 台、团队版 20 台。达到上限后新设备需等待或升级套餐，日常可在客户端里查看当前连接状态。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB。流量按自然月重置，视频与游戏消耗较快，可按日均使用量估算所选套餐是否够用。",
+          "AI_FAQ_ANSWER_3": "基础版使用普通线路节点池，旗舰版与团队版开放更多高带宽与优化线路，其中旗舰版针对游戏场景做了专线优化，团队版提供 VIP 专属节点。",
+          "AI_FAQ_ANSWER_4": "月付灵活、年付更省，各套餐均支持月付与年付。基础版年付约 ¥150、旗舰版约 ¥350、团队版约 ¥850，可按使用时长选择周期。",
+          "AI_FAQ_ANSWER_5": "先确认设备系统与同时在线数量，再按每月流量需求选择对应套餐，随后在客户端内导入订阅链接，即可在常用设备上切换使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐能同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "每月流量额度是多少、用完怎么办？",
+          "AI_FAQ_QUESTION_3": "不同套餐的线路有什么区别？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更划算？",
+          "AI_FAQ_QUESTION_5": "第一次使用该从哪里开始配置？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zlonyyd.cn",
+    "host": "zlonyyd.cn"
+  },
+  "file_hashes": {
+    "index.html": "5d6f0b3389cb9a15976dab3ba28142bf7599c5bac82d0c9a4332810c6bb49b31",
+    "sitemap.xml": "451ffb102cbc6d42d4ca5b7ae08e7ff256ee515e9a736b77c662d4c5f9175860",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "aa3e435d43a8c0434a8c1b1278b2538497662d45782af305cf74a3ba3a3fa077",
+    "robots.txt": "b53463bd928115a9ecf2c25a7fb8ff0ed3d42f7ac80411505468911d89e3b4b9",
+    "799ba9857a706728d78d655ab9b7bc50.txt": "4fd33a663ef768623714f9483cf0aa3f0d878d5e00803e85a815a59e2cb87df6"
+  },
+  "revision": "bfdbd3691cb73aa42cfd5ef140f94b3155805cede3b080b6eb97fc0651d3821e"
+}
